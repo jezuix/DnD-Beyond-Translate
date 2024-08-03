@@ -23,3 +23,6 @@ Selecione a pasta do projeto (DnD-Beyond-Translate).
 * Como é um projeto baseado em HTML e classes, caso o site do D&D Beyond se atualize e mude a forma de montar as fichas dos montros esse script provavelmente irá parar de funcionar ou funcionar de forma errada.
 * Caso usem o scripts em páginas fora do D&D Beyond provavelmente nada acontecerá pois existe um limitador de classes, porém, nunca se sabe!
 * Isso é um projeto inicial e que foi desenvolvido apenas visando as minhas necessidades e observações iniciais então pode ser que ele não cumpra com suas expectativas, mals ae!
+
+![Esthala-Antes](https://github.com/user-attachments/assets/9a00365f-d6f9-4cb7-bc17-1a194fefc894)
+![Esthala-Depois](https://github.com/user-attachments/assets/865ced1c-a25a-4839-8670-f13c60453390)
