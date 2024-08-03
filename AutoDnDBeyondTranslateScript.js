@@ -492,7 +492,7 @@
                 let modifiedHTLML = element.innerHTML;
                 normalizedTranslations.forEach(translation => {
                     const regex = new RegExp(`\\b${translation.text}\\b`, 'gi');
-                    //const regex = new RegExp(translation.text, "gi");
+
                     modifiedHTLML = modifiedHTLML.replace(regex, translation.translate)
                 });
 
