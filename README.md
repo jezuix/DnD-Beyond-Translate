@@ -1,4 +1,4 @@
-Projeto para melhroar a visualização de fichas de monstros **"HOMEBREW"** no site [D&D Beyond](https://www.dndbeyond.com/homebrew/monsters).
+Projeto para melhroar a visualização de fichas de monstros **"HOMEBREW"** no site [D&D Beyond](https://www.dndbeyond.com/homebrew/monsters) para monstros criados em Português-Brasil (PT-BR).
 
 # Objetivo
 O meu objetivo era melhorar a visualizações das minhas fichas criadas no D&D Beyond.
