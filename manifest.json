@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "D&D Beyond - Tradução de ficha de Monstros para Português",
+    "version": "1.0",
+    "description": "Execute um script de tradução de alguns termos no site de monstros do D&D Beyond. GitHub: https://github.com/jezuix/DnD-Beyond-Translate",
+    "permissions": [
+        "activeTab"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://www.dndbeyond.com/monsters/*"
+            ],
+            "js": [
+                "AutoDnDBeyondTranslateScript.js"
+            ]
+        }
+    ],
+    "icons": {
+        "48": "icon.png"
+    }
+}

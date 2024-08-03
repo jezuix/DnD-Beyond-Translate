@@ -413,13 +413,14 @@
             { text: "Urban", translate: "Urbano" },
 
             // Títulos e Categorias D&D Beyond
-            { text: "Special Traits", translate: "Traços Especiais" },
             { text: "Actions", translate: "Ações" },
-            { text: "Reactions", translate: "Reações" },
-            { text: "Monster Characteristics", translate: "Características do Monstro" },
             { text: "Bonus Actions", translate: "Ações Bônus" },
+            { text: "Description", translate: "Descrição" },
             { text: "Legendary Actions", translate: "Ações Lendárias" },
+            { text: "Monster Characteristics", translate: "Características do Monstro" },
             { text: "Mythic Actions", translate: "Ações Míticas" },
+            { text: "Reactions", translate: "Reações" },
+            { text: "Special Traits", translate: "Traços Especiais" },
             { text: "Lair and Lair Actions", translate: "Covil e Ações de Covil" },
         ];
 
