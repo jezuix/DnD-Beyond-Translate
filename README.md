@@ -2,10 +2,10 @@
   <img src="https://github.com/user-attachments/assets/33be99ae-798b-49ee-ad3a-dbac530e8c4e" style="width: 20%; height: 20%;" />
 </p>
 
-Projeto para melhroar a visualização de fichas de monstros **"HOMEBREW"** no site [D&D Beyond](https://www.dndbeyond.com/homebrew/monsters) para monstros criados em Português-Brasil (PT-BR).
+Projeto para melhorar a visualização de fichas de monstros **"HOMEBREW"** no site [D&D Beyond](https://www.dndbeyond.com/homebrew/monsters) para monstros criados em Português-Brasil (PT-BR).
 
 # Objetivo
-O meu objetivo era melhorar a visualizações das minhas fichas criadas no D&D Beyond, pois me irritava as minhas fichas sendo feitas com detalhes em português, porém, na visualização final que é o que eu realmente uso durante as sessões tudo ficava meio misturado, então pensando nisso fiz esse pequeno projeto.
+O meu objetivo era melhorar a visualização das minhas fichas criadas no D&D Beyond, pois me irritava as minhas fichas sendo feitas com detalhes em português, porém, na visualização final que é o que eu realmente uso durante as sessões tudo ficava meio misturado, então pensando nisso fiz esse pequeno projeto.
 Espero que seja útil para mais pessoas.
 
 ## Como funciona
@@ -39,7 +39,7 @@ O script no arquivo **"AutoDnDBeyondTranslateScript.js"** possui um script que t
 Os detalhes da ficha já estavam em português por que eu havia feito para usar nas minhas aventuras, porém, ter uma ficha semi em português me irritava ...
 
 ## Possíveis problemas
-* Como é um projeto baseado em HTML e classes, caso o site do D&D Beyond se atualize e mude a forma de montar as fichas dos montros esse script provavelmente irá parar de funcionar ou funcionar de forma errada.
+* Como é um projeto baseado em HTML e classes HTML, caso o site do D&D Beyond se atualize e mude a forma de montar as fichas dos montros esse script provavelmente irá parar de funcionar ou funcionar de forma errada.
 * O projeto não converte números, mas muda a sigla **ft.** para **m.** pois nas minhas fichas eu já utilizava a unidade de medida **metros** mesmo a ficha mostrando e **pés (feet)**.
 * Não testei em outros navegaores, nem mesmo em navegadores baseados no Chrome como é o caso do Opera.
 * Caso usem o scripts em páginas fora do D&D Beyond provavelmente nada acontecerá pois existe um limitador de classes, porém, nunca se sabe!
