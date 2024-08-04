@@ -479,8 +479,6 @@
 
     // Função para traduzir elementos específicos (por classe)
     function translateElements() {
-        let houveMudanca = false;
-
         const normalizedTranslations = translations.map(translation => ({
             ...translation,
             text: translation.text.toLowerCase()
@@ -496,10 +494,8 @@
                     modifiedHTLML = modifiedHTLML.replace(regex, translation.translate)
                 });
 
-                if (modifiedHTLML && element.innerHTML != modifiedHTLML) {
-                    houveMudanca = true;
+                if (modifiedHTLML)
                     element.innerHTML = modifiedHTLML;
-                }
             }
         });
     }
