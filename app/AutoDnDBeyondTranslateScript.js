@@ -1,17 +1,28 @@
 (function () {
     const pluginMode = true;
     const extensionId = 'ppkhadaebohienjhjkomdelmigneagnj';
+    const monsterStatsBlockClass = 'mon-stat-block'
+    const monsterStatsBlockNameClass = 'mon-stat-block__name'
+    const moreInfoClass = 'more-info-content'
+    const contentClass = '*content';
+
+    const settings = {
+        nameTranslate: false,
+        contentTranslate: false,
+        feetToMeter: true
+    }
 
     const listClassToCheck =
         [
             {
-                mainClass: 'mon-stat-block', listClassUnmodify: ['mon-stat-block__name', '*content']
+                mainClass: monsterStatsBlockClass, listClassUnmodify: []
             },
             {
-                mainClass: 'more-info-content', listClassUnmodify: ['*content']
+                mainClass: moreInfoClass, listClassUnmodify: []
             }
         ];
     const listUnmodifyElements = [];
+
     const translations = [
         // Atributos
         { text: "STR", translate: "FOR" },
@@ -489,6 +500,32 @@
             './translations';
     }
 
+    // Efetua as configurações
+    function setup() {
+        if (!settings.nameTranslate) {
+            listClassToCheck.forEach(el => {
+                if (el.mainClass !== monsterStatsBlockClass) return;
+                if (!el.listClassUnmodify)
+                    el.listClassUnmodify = [];
+
+                el.listClassUnmodify.push(monsterStatsBlockNameClass);
+            })
+        }
+
+        if (!settings.contentTranslate) {
+            listClassToCheck.forEach(el => {
+                if (!el.listClassUnmodify)
+                    el.listClassUnmodify = [];
+
+                el.listClassUnmodify.push(contentClass);
+            })
+        }
+
+        if (!settings.contentTranslate) {
+
+        }
+    }
+
     // Função para contar a quantidade de palavras dentro de um texto.
     function wordCount(str) {
         return str.split(/\s+/).length;
@@ -535,6 +572,8 @@
 
     // Função para traduzir elementos específicos (por classe).
     function translateElements() {
+        setup();
+
         //Chamara as traduções armazeadas em JSONs
         //loadJsonTranslation();
 
