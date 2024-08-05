@@ -41,6 +41,8 @@ Os detalhes da ficha já estavam em português por que eu havia feito para usar 
 ## Possíveis problemas
 * Como é um projeto baseado em HTML e classes HTML, caso o site do D&D Beyond se atualize e mude a forma de montar as fichas dos montros esse script provavelmente irá parar de funcionar ou funcionar de forma errada.
 * O projeto não converte números, mas muda a sigla **ft.** para **m.** pois nas minhas fichas eu já utilizava a unidade de medida **metros** mesmo a ficha mostrando e **pés (feet)**.
+* Tentei migrar as traduções para arquivos externos, mas não funcionou quando rodando direto do chrome então mantive por enquanto os objetos de tradução no script principal.
+* A rotina de ignorar elementos é um pouco frágil, mas nos testes funcionaram sem problemas.
 * Não testei em outros navegaores, nem mesmo em navegadores baseados no Chrome como é o caso do Opera.
 * Caso usem o scripts em páginas fora do D&D Beyond provavelmente nada acontecerá pois existe um limitador de classes, porém, nunca se sabe!
 * Isso é um projeto inicial e que foi desenvolvido apenas visando as minhas necessidades e observações iniciais então pode ser que ele não cumpra com suas expectativas, mals ae!
