@@ -1,0 +1,42 @@
+[
+    {
+        "text": "Lawful Good",
+        "translate": "Leal e Bom"
+    },
+    {
+        "text": "Neutral Good",
+        "translate": "Neutro e Bom"
+    },
+    {
+        "text": "Chaotic Good",
+        "translate": "Caótico e Bom"
+    },
+    {
+        "text": "Lawful Neutral",
+        "translate": "Leal e Neutro"
+    },
+    {
+        "text": "Neutral",
+        "translate": "Neutro"
+    },
+    {
+        "text": "Chaotic Neutral",
+        "translate": "Caótico e Neutro"
+    },
+    {
+        "text": "Lawful Evil",
+        "translate": "Leal e Mau"
+    },
+    {
+        "text": "Neutral Evil",
+        "translate": "Neutro e Mau"
+    },
+    {
+        "text": "Chaotic Evil",
+        "translate": "Caótico e Mau"
+    },
+    {
+        "text": "Unaligned",
+        "translate": "Imparcial"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "text": "Saving Throws",
+        "translate": "Testes de Resistência"
+    },
+    {
+        "text": "Damage Resistances",
+        "translate": "Resistências a Danos"
+    },
+    {
+        "text": "Damage Immunities",
+        "translate": "Imunidades a Danos"
+    },
+    {
+        "text": "Condition Resistances",
+        "translate": "Resistências a Condições"
+    },
+    {
+        "text": "Condition Immunities",
+        "translate": "Imunidades a Condições"
+    },
+    {
+        "text": "Skills",
+        "translate": "Perícias"
+    },
+    {
+        "text": "Senses",
+        "translate": "Sentidos"
+    },
+    {
+        "text": "Languages",
+        "translate": "Idiomas"
+    },
+    {
+        "text": "Challenge",
+        "translate": "Nível de Desafio"
+    },
+    {
+        "text": "Proficiency Bonus",
+        "translate": "Proficiência"
+    }
+]

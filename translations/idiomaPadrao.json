@@ -1,0 +1,34 @@
+[
+    {
+        "text": "Common",
+        "translate": "Comum"
+    },
+    {
+        "text": "Elvish",
+        "translate": "Élfico"
+    },
+    {
+        "text": "Dwarvish",
+        "translate": "Anão"
+    },
+    {
+        "text": "Giant",
+        "translate": "Gigante"
+    },
+    {
+        "text": "Gnomish",
+        "translate": "Gnômico"
+    },
+    {
+        "text": "Goblin",
+        "translate": "Goblin"
+    },
+    {
+        "text": "Halfling",
+        "translate": "Halfling"
+    },
+    {
+        "text": "Orc",
+        "translate": "Orc"
+    }
+]

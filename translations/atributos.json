@@ -1,0 +1,26 @@
+[
+    {
+        "text": "STR",
+        "translate": "FOR"
+    },
+    {
+        "text": "DEX",
+        "translate": "DES"
+    },
+    {
+        "text": "CON",
+        "translate": "CON"
+    },
+    {
+        "text": "INT",
+        "translate": "INT"
+    },
+    {
+        "text": "WIS",
+        "translate": "SAB"
+    },
+    {
+        "text": "CHA",
+        "translate": "CAR"
+    }
+]

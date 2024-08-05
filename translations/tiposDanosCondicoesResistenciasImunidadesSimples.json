@@ -1,0 +1,62 @@
+[
+    {
+        "text": "Blinded",
+        "translate": "Cego"
+    },
+    {
+        "text": "Charmed",
+        "translate": "Enfeitiçado"
+    },
+    {
+        "text": "Deafened",
+        "translate": "Surdo"
+    },
+    {
+        "text": "Exhaustion",
+        "translate": "Exaustão"
+    },
+    {
+        "text": "Frightened",
+        "translate": "Amedrontado"
+    },
+    {
+        "text": "Grappled",
+        "translate": "Agarrado"
+    },
+    {
+        "text": "Incapacitated",
+        "translate": "Incapacitado"
+    },
+    {
+        "text": "Invisible",
+        "translate": "Invisível"
+    },
+    {
+        "text": "Paralyzed",
+        "translate": "Paralisado"
+    },
+    {
+        "text": "Petrified",
+        "translate": "Petrificado"
+    },
+    {
+        "text": "Poisoned",
+        "translate": "Envenenado"
+    },
+    {
+        "text": "Prone",
+        "translate": "Caído"
+    },
+    {
+        "text": "Restrained",
+        "translate": "Impedido"
+    },
+    {
+        "text": "Stunned",
+        "translate": "Atordoado"
+    },
+    {
+        "text": "Unconscious",
+        "translate": "Inconsciente"
+    }
+]

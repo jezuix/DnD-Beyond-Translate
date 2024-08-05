@@ -1,0 +1,62 @@
+[
+    {
+        "text": "Aberration",
+        "translate": "Aberração"
+    },
+    {
+        "text": "Beast",
+        "translate": "Besta"
+    },
+    {
+        "text": "Celestial",
+        "translate": "Celestial"
+    },
+    {
+        "text": "Construct",
+        "translate": "Construto"
+    },
+    {
+        "text": "Dragon",
+        "translate": "Dragão"
+    },
+    {
+        "text": "Elemental",
+        "translate": "Elemental"
+    },
+    {
+        "text": "Fey",
+        "translate": "Fada"
+    },
+    {
+        "text": "Fiend",
+        "translate": "Corruptor"
+    },
+    {
+        "text": "Giant",
+        "translate": "Gigante"
+    },
+    {
+        "text": "Humanoid",
+        "translate": "Humanoide"
+    },
+    {
+        "text": "Monstrosity",
+        "translate": "Monstruosidade"
+    },
+    {
+        "text": "Ooze",
+        "translate": "Limo"
+    },
+    {
+        "text": "Plant",
+        "translate": "Planta"
+    },
+    {
+        "text": "Undead",
+        "translate": "Morto-vivo"
+    },
+    {
+        "text": "unknown",
+        "translate": "desconhecido"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "text": "Variable Sizes",
+        "translate": "Tamanhos Variados"
+    },
+    {
+        "text": "Size",
+        "translate": "Tamanho"
+    },
+    {
+        "text": "Hit Die Type",
+        "translate": "Tipo de Dado de Vida"
+    },
+    {
+        "text": "Number of Hit Dice",
+        "translate": "Número de Dados de Vida"
+    },
+    {
+        "text": "Hit Point Modifier",
+        "translate": "Modificador de Pontos de Vida"
+    },
+    {
+        "text": "Total Hit Points",
+        "translate": "Total de Pontos de Vida"
+    },
+    {
+        "text": "Calculation",
+        "translate": "Cálculo"
+    },
+    {
+        "text": "Average Hit Points",
+        "translate": "Pontos de Vida Médios"
+    }
+]

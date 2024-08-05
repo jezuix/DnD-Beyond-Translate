@@ -1,0 +1,590 @@
+[
+    {
+        "text": "Aarakocra",
+        "translate": "Aarakocra"
+    },
+    {
+        "text": "Adult Chromatic",
+        "translate": "Adulto Cromático"
+    },
+    {
+        "text": "Air",
+        "translate": "Ar"
+    },
+    {
+        "text": "Air Genasi",
+        "translate": "Genasi do Ar"
+    },
+    {
+        "text": "Ambusher",
+        "translate": "Emboscador"
+    },
+    {
+        "text": "Angel",
+        "translate": "Anjo"
+    },
+    {
+        "text": "Angulotl",
+        "translate": "Angulotl"
+    },
+    {
+        "text": "Any",
+        "translate": "Qualquer"
+    },
+    {
+        "text": "Any Birdfolk",
+        "translate": "Qualquer Povo das Aves"
+    },
+    {
+        "text": "Any Race",
+        "translate": "Qualquer Raça"
+    },
+    {
+        "text": "Archfey",
+        "translate": "Arqui-Fada"
+    },
+    {
+        "text": "Artillery",
+        "translate": "Artilharia"
+    },
+    {
+        "text": "Bard",
+        "translate": "Bardo"
+    },
+    {
+        "text": "Bearfolk",
+        "translate": "Povo Urso"
+    },
+    {
+        "text": "Beholder",
+        "translate": "Beholder"
+    },
+    {
+        "text": "Blindheim",
+        "translate": "Blindheim"
+    },
+    {
+        "text": "Brown Bear",
+        "translate": "Urso Pardo"
+    },
+    {
+        "text": "Brute",
+        "translate": "Bruto"
+    },
+    {
+        "text": "Bugbear",
+        "translate": "Bugbear"
+    },
+    {
+        "text": "Bullywug",
+        "translate": "Bullywug"
+    },
+    {
+        "text": "Burrowling",
+        "translate": "Escavador"
+    },
+    {
+        "text": "Category 1",
+        "translate": "Categoria 1"
+    },
+    {
+        "text": "Category 2",
+        "translate": "Categoria 2"
+    },
+    {
+        "text": "Category 3",
+        "translate": "Categoria 3"
+    },
+    {
+        "text": "Category 4",
+        "translate": "Categoria 4"
+    },
+    {
+        "text": "Category 5",
+        "translate": "Categoria 5"
+    },
+    {
+        "text": "Category 6",
+        "translate": "Categoria 6"
+    },
+    {
+        "text": "Cattle",
+        "translate": "Gado"
+    },
+    {
+        "text": "Cervan",
+        "translate": "Cervan"
+    },
+    {
+        "text": "Changeling",
+        "translate": "Metamorfo"
+    },
+    {
+        "text": "Chromatic",
+        "translate": "Cromático"
+    },
+    {
+        "text": "Cleric",
+        "translate": "Clérigo"
+    },
+    {
+        "text": "Cloud Giant",
+        "translate": "Gigante das Nuvens"
+    },
+    {
+        "text": "Controller",
+        "translate": "Controlador"
+    },
+    {
+        "text": "Corvum",
+        "translate": "Corvum"
+    },
+    {
+        "text": "Cursed",
+        "translate": "Amaldiçoado"
+    },
+    {
+        "text": "Demon",
+        "translate": "Demônio"
+    },
+    {
+        "text": "Derro",
+        "translate": "Derro"
+    },
+    {
+        "text": "Devil",
+        "translate": "Diabo"
+    },
+    {
+        "text": "Dinosaur",
+        "translate": "Dinossauro"
+    },
+    {
+        "text": "Dire Corby",
+        "translate": "Corby Sombrio"
+    },
+    {
+        "text": "Downcast",
+        "translate": "Desalentado"
+    },
+    {
+        "text": "Dragonborn",
+        "translate": "Dragonborn"
+    },
+    {
+        "text": "Drow",
+        "translate": "Drow"
+    },
+    {
+        "text": "Druid",
+        "translate": "Druida"
+    },
+    {
+        "text": "Dwarf",
+        "translate": "Anão"
+    },
+    {
+        "text": "Earth",
+        "translate": "Terra"
+    },
+    {
+        "text": "Earth Genasi",
+        "translate": "Genasi da Terra"
+    },
+    {
+        "text": "Elemental",
+        "translate": "Elemental"
+    },
+    {
+        "text": "Elf",
+        "translate": "Elfo"
+    },
+    {
+        "text": "Erina",
+        "translate": "Erina"
+    },
+    {
+        "text": "Fiend",
+        "translate": "Demoníaco"
+    },
+    {
+        "text": "Fire",
+        "translate": "Fogo"
+    },
+    {
+        "text": "Fire Genasi",
+        "translate": "Genasi do Fogo"
+    },
+    {
+        "text": "Fire Giant",
+        "translate": "Gigante do Fogo"
+    },
+    {
+        "text": "Firenewt",
+        "translate": "Firenewt"
+    },
+    {
+        "text": "Frost Giant",
+        "translate": "Gigante do Gelo"
+    },
+    {
+        "text": "Fungus",
+        "translate": "Fungo"
+    },
+    {
+        "text": "Gallus",
+        "translate": "Gallus"
+    },
+    {
+        "text": "Gem",
+        "translate": "Gema"
+    },
+    {
+        "text": "Giff",
+        "translate": "Giff"
+    },
+    {
+        "text": "Gith",
+        "translate": "Gith"
+    },
+    {
+        "text": "Gnoll",
+        "translate": "Gnoll"
+    },
+    {
+        "text": "Gnome",
+        "translate": "Gnomo"
+    },
+    {
+        "text": "Goblin",
+        "translate": "Goblin"
+    },
+    {
+        "text": "Goblinoid",
+        "translate": "Goblinoide"
+    },
+    {
+        "text": "Goliath",
+        "translate": "Goliath"
+    },
+    {
+        "text": "Grimlock",
+        "translate": "Grimlock"
+    },
+    {
+        "text": "Grippli",
+        "translate": "Grippli"
+    },
+    {
+        "text": "Grung",
+        "translate": "Grung"
+    },
+    {
+        "text": "Hag",
+        "translate": "Bruxa"
+    },
+    {
+        "text": "Half-Black Dragon",
+        "translate": "Meia-Dragão Negro"
+    },
+    {
+        "text": "Half-Blue Dragon",
+        "translate": "Meia-Dragão Azul"
+    },
+    {
+        "text": "Half-Dragon",
+        "translate": "Meia-Dragão"
+    },
+    {
+        "text": "Half-Elf",
+        "translate": "Meio-Elfo"
+    },
+    {
+        "text": "Half-Giant",
+        "translate": "Meio-Gigante"
+    },
+    {
+        "text": "Halfling",
+        "translate": "Halfling"
+    },
+    {
+        "text": "Half-Orc",
+        "translate": "Meio-Orc"
+    },
+    {
+        "text": "Harengon",
+        "translate": "Harengon"
+    },
+    {
+        "text": "Hedge",
+        "translate": "Hedge"
+    },
+    {
+        "text": "High-Elf",
+        "translate": "Alto-Elfo"
+    },
+    {
+        "text": "Hill Giant",
+        "translate": "Gigante das Colinas"
+    },
+    {
+        "text": "Hobgoblin",
+        "translate": "Hobgoblin"
+    },
+    {
+        "text": "Human",
+        "translate": "Humano"
+    },
+    {
+        "text": "Incorporeal",
+        "translate": "Incorporal"
+    },
+    {
+        "text": "Inevitable",
+        "translate": "Inevitável"
+    },
+    {
+        "text": "Jerbeen",
+        "translate": "Jerbeen"
+    },
+    {
+        "text": "Jermlaine",
+        "translate": "Jermlaine"
+    },
+    {
+        "text": "Kalashtar",
+        "translate": "Kalashtar"
+    },
+    {
+        "text": "Kender",
+        "translate": "Kender"
+    },
+    {
+        "text": "Kenku",
+        "translate": "Kenku"
+    },
+    {
+        "text": "Kobold",
+        "translate": "Kobold"
+    },
+    {
+        "text": "Kraul",
+        "translate": "Kraul"
+    },
+    {
+        "text": "Kuo-Toa",
+        "translate": "Kuo-Toa"
+    },
+    {
+        "text": "Leader",
+        "translate": "Líder"
+    },
+    {
+        "text": "Lemurfolk",
+        "translate": "Lemurfolk"
+    },
+    {
+        "text": "Leonin",
+        "translate": "Leonin"
+    },
+    {
+        "text": "Lizardfolk",
+        "translate": "Povo Lagarto"
+    },
+    {
+        "text": "Locathah",
+        "translate": "Locathah"
+    },
+    {
+        "text": "Luma",
+        "translate": "Luma"
+    },
+    {
+        "text": "Mapach",
+        "translate": "Mapach"
+    },
+    {
+        "text": "Meazel",
+        "translate": "Meazel"
+    },
+    {
+        "text": "Medusa",
+        "translate": "Medusa"
+    },
+    {
+        "text": "Merfolk",
+        "translate": "Povo do Mar"
+    },
+    {
+        "text": "Metallic",
+        "translate": "Metálico"
+    },
+    {
+        "text": "Mind Flayer",
+        "translate": "Devorador de Mentes"
+    },
+    {
+        "text": "Minion",
+        "translate": "Minion"
+    },
+    {
+        "text": "Minotaur",
+        "translate": "Minotauro"
+    },
+    {
+        "text": "Molefolk",
+        "translate": "Povo Toupeira"
+    },
+    {
+        "text": "Mongrelfolk",
+        "translate": "Povo Mestiço"
+    },
+    {
+        "text": "Monk",
+        "translate": "Monge"
+    },
+    {
+        "text": "Moonstone",
+        "translate": "Pedra da Lua"
+    },
+    {
+        "text": "Myconid",
+        "translate": "Míconide"
+    },
+    {
+        "text": "Nagpa",
+        "translate": "Nagpa"
+    },
+    {
+        "text": "Nkosi",
+        "translate": "Nkosi"
+    },
+    {
+        "text": "Noctiny",
+        "translate": "Noctiny"
+    },
+    {
+        "text": "Ogre",
+        "translate": "Ogros"
+    },
+    {
+        "text": "Orc",
+        "translate": "Orc"
+    },
+    {
+        "text": "Paladin",
+        "translate": "Paladino"
+    },
+    {
+        "text": "Quaggoth",
+        "translate": "Quaggoth"
+    },
+    {
+        "text": "Ranger",
+        "translate": "Rastreador"
+    },
+    {
+        "text": "Raptor",
+        "translate": "Raptor"
+    },
+    {
+        "text": "Ratfolk",
+        "translate": "Povo Rato"
+    },
+    {
+        "text": "Ravenfolk",
+        "translate": "Povo Corvo"
+    },
+    {
+        "text": "Roachling",
+        "translate": "Roachling"
+    },
+    {
+        "text": "Sable Elf",
+        "translate": "Elfo Sable"
+    },
+    {
+        "text": "Sahuagin",
+        "translate": "Sahuagin"
+    },
+    {
+        "text": "Saurial",
+        "translate": "Saurial"
+    },
+    {
+        "text": "Shadar-Kai",
+        "translate": "Shadar-Kai"
+    },
+    {
+        "text": "Shapechanger",
+        "translate": "Metamorfo"
+    },
+    {
+        "text": "Shifter",
+        "translate": "Mutante"
+    },
+    {
+        "text": "Sphinx",
+        "translate": "Esfinge"
+    },
+    {
+        "text": "Sprite",
+        "translate": "Duende"
+    },
+    {
+        "text": "Stone Giant",
+        "translate": "Gigante da Pedra"
+    },
+    {
+        "text": "Tarrasque",
+        "translate": "Tarrasque"
+    },
+    {
+        "text": "Tiefling",
+        "translate": "Tiefling"
+    },
+    {
+        "text": "Titan",
+        "translate": "Titã"
+    },
+    {
+        "text": "Twi'lek",
+        "translate": "Twi'lek"
+    },
+    {
+        "text": "Undead",
+        "translate": "Mortos-Vivos"
+    },
+    {
+        "text": "Vampire",
+        "translate": "Vampiro"
+    },
+    {
+        "text": "Vulturefolk",
+        "translate": "Povo Abutre"
+    },
+    {
+        "text": "Warforged",
+        "translate": "Forjado para a Guerra"
+    },
+    {
+        "text": "Wererat",
+        "translate": "Lobisomem Rato"
+    },
+    {
+        "text": "Werewolf",
+        "translate": "Lobisomem"
+    },
+    {
+        "text": "Yeti",
+        "translate": "Yeti"
+    },
+    {
+        "text": "Yuan-Ti",
+        "translate": "Yuan-Ti"
+    },
+    {
+        "text": "Zombie",
+        "translate": "Zumbi"
+    }
+]

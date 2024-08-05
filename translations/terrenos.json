@@ -1,0 +1,46 @@
+[
+    {
+        "text": "Arctic",
+        "translate": "Ártico"
+    },
+    {
+        "text": "Coastal",
+        "translate": "Costeiro"
+    },
+    {
+        "text": "Desert",
+        "translate": "Deserto"
+    },
+    {
+        "text": "Forest",
+        "translate": "Floresta"
+    },
+    {
+        "text": "Grassland",
+        "translate": "Campo"
+    },
+    {
+        "text": "Hill",
+        "translate": "Colina"
+    },
+    {
+        "text": "Mountain",
+        "translate": "Montanha"
+    },
+    {
+        "text": "Swamp",
+        "translate": "Pântano"
+    },
+    {
+        "text": "Underdark",
+        "translate": "Subterrâneo"
+    },
+    {
+        "text": "Underwater",
+        "translate": "Subaquático"
+    },
+    {
+        "text": "Urban",
+        "translate": "Urbano"
+    }
+]

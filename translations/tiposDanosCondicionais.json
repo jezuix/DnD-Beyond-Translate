@@ -1,0 +1,74 @@
+[
+    {
+        "text": "Bludgeoning from Magic Weapons",
+        "translate": "Concussão de Armas Mágicas"
+    },
+    {
+        "text": "Bludgeoning from Nonmagical Attacks",
+        "translate": "Concussão de Ataques Não Mágicos"
+    },
+    {
+        "text": "Bludgeoning from Nonmagical Attacks that aren't Silvered",
+        "translate": "Concussão de Ataques Não Mágicos que não são Prateados"
+    },
+    {
+        "text": "Bludgeoning from Nonmagical Attacks that aren't Adamantine",
+        "translate": "Concussão de Ataques Não Mágicos que não são de Adamantina"
+    },
+    {
+        "text": "Bludgeoning from Silvered Weapons",
+        "translate": "Concussão de Armas Prateadas"
+    },
+    {
+        "text": "Bludgeoning from Adamantine Weapons",
+        "translate": "Concussão de Armas de Adamantina"
+    },
+    {
+        "text": "Piercing from Magic Weapons",
+        "translate": "Perfurante de Armas Mágicas"
+    },
+    {
+        "text": "Piercing from Nonmagical Attacks",
+        "translate": "Perfurante de Ataques Não Mágicos"
+    },
+    {
+        "text": "Piercing from Nonmagical Attacks that aren't Silvered",
+        "translate": "Perfurante de Ataques Não Mágicos que não são Prateados"
+    },
+    {
+        "text": "Piercing from Nonmagical Attacks that aren't Adamantine",
+        "translate": "Perfurante de Ataques Não Mágicos que não são de Adamantina"
+    },
+    {
+        "text": "Piercing from Silvered Weapons",
+        "translate": "Perfurante de Armas Prateadas"
+    },
+    {
+        "text": "Piercing from Adamantine Weapons",
+        "translate": "Perfurante de Armas de Adamantina"
+    },
+    {
+        "text": "Slashing from Magic Weapons",
+        "translate": "Cortante de Armas Mágicas"
+    },
+    {
+        "text": "Slashing from Nonmagical Attacks",
+        "translate": "Cortante de Ataques Não Mágicos"
+    },
+    {
+        "text": "Slashing from Nonmagical Attacks that aren't Silvered",
+        "translate": "Cortante de Ataques Não Mágicos que não são Prateados"
+    },
+    {
+        "text": "Slashing from Nonmagical Attacks that aren't Adamantine",
+        "translate": "Cortante de Ataques Não Mágicos que não são de Adamantina"
+    },
+    {
+        "text": "Slashing from Silvered Weapons",
+        "translate": "Cortante de Armas Prateadas"
+    },
+    {
+        "text": "Slashing from Adamantine Weapons",
+        "translate": "Cortante de Armas de Adamantina"
+    }
+]

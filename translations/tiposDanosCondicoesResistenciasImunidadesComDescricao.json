@@ -1,0 +1,251 @@
+[
+    {
+        "text": "Acid - Resistance", "translate": "Ácido - Resistência"
+    },
+    {
+        "text": "Acid - Immunity", "translate": "Ácido - Imunidade"
+    },
+    {
+        "text": "Acid - Vulnerability", "translate": "Ácido - Vulnerabilidade"
+    },
+    {
+        "text": "All - Resistance", "translate": "Todos - Resistência"
+    },
+    {
+        "text": "All damage but Force, Radiant, and Psychic - Resistance", "translate": "Todo dano exceto Força, Radiante e Psíquico - Resistência"
+    },
+    {
+        "text": "All damage from spells - Immunity", "translate": "Todo dano de magias - Imunidade"
+    },
+    {
+        "text": "Bludgeoning - Vulnerability", "translate": "Concussão - Vulnerabilidade"
+    },
+    {
+        "text": "Bludgeoning - Immunity", "translate": "Concussão - Imunidade"
+    },
+    {
+        "text": "Bludgeoning - Resistance", "translate": "Concussão - Resistência"
+    },
+    {
+        "text": "Bludgeoning and Piercing from nonmagical attacks - Resistance", "translate": "Concussão e Perfuração de ataques não mágicos - Resistência"
+    },
+    {
+        "text": "Bludgeoning damage from falling - Immunity", "translate": "Dano de concussão por queda - Imunidade"
+    },
+    {
+        "text": "Bludgeoning from non magical attacks - Resistance", "translate": "Concussão de ataques não mágicos - Resistência"
+    },
+    {
+        "text": "Bludgeoning from nonmagical attacks - Resistance", "translate": "Concussão de ataques não mágicos - Resistência"
+    },
+    {
+        "text": "Bludgeoning from nonmagical attacks - Immunity", "translate": "Concussão de ataques não mágicos - Imunidade"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing by Silvered Weapons - Vulnerability", "translate": "Concussão, Perfuração e Cortante por armas banhadas a prata - Vulnerabilidade"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from attacks not made with Cold Iron Weapons - Resistance", "translate": "Concussão, Perfuração e Cortante de ataques não feitos com Armas de Ferro Frio - Resistência"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Magic Weapons - Resistance", "translate": "Concussão, Perfuração e Cortante de Armas Mágicas - Resistência"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Magical Weapons - Immunity", "translate": "Concussão, Perfuração e Cortante de Armas Mágicas - Imunidade"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Metal Weapons - Immunity", "translate": "Concussão, Perfuração e Cortante de Armas Metálicas - Imunidade"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Mundane Attacks - Resistance", "translate": "Concussão, Perfuração e Cortante de Ataques Mundanos - Resistência"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Mundane Attacks - Immunity", "translate": "Concussão, Perfuração e Cortante de Ataques Mundanos - Imunidade"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Nonmagical Attacks - Resistance", "translate": "Concussão, Perfuração e Cortante de Ataques Não Mágicos - Resistência"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Nonmagical Attacks - Immunity", "translate": "Concussão, Perfuração e Cortante de Ataques Não Mágicos - Imunidade"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Nonmagical Attacks not made with Cold Iron Weapons - Resistance", "translate": "Concussão, Perfuração e Cortante de Ataques Não Mágicos não feitos com Armas de Ferro Frio - Resistência"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine - Immunity", "translate": "Concussão, Perfuração e Cortante de Ataques Não Mágicos que não sejam de Adamantina - Imunidade"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine - Resistance", "translate": "Concussão, Perfuração e Cortante de Ataques Não Mágicos que não sejam de Adamantina - Resistência"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine or Silvered - Immunity", "translate": "Concussão, Perfuração e Cortante de Ataques Não Mágicos que não sejam de Adamantina ou Banhadas a Prata - Imunidade"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered - Resistance", "translate": "Concussão, Perfuração e Cortante de Ataques Não Mágicos que não sejam banhados a Prata - Resistência"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered - Immunity", "translate": "Concussão, Perfuração e Cortante de Ataques Não Mágicos que não sejam banhados a Prata - Imunidade"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing from Nonmagical Attacks while in Dim Light or Darkness - Resistance", "translate": "Concussão, Perfuração e Cortante de Ataques Não Mágicos enquanto estiver em Luz Fraca ou Escuridão - Resistência"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing that is Nonmagical - Immunity", "translate": "Concussão, Perfuração e Cortante Não Mágicos - Imunidade"
+    },
+    {
+        "text": "Bludgeoning, Piercing, and Slashing while in Dim Light or Darkness - Resistance", "translate": "Concussão, Perfuração e Cortante enquanto estiver em Luz Fraca ou Escuridão - Resistência"
+    },
+    {
+        "text": "Bludgeoning, Slashing, and Piercing from Nonmagical Attacks not made with Cold Iron Weapons - Immunity", "translate": "Concussão, Cortante e Perfuração de Ataques Não Mágicos não feitos com Armas de Ferro Frio - Imunidade"
+    },
+    {
+        "text": "Cold - Vulnerability", "translate": "Frio - Vulnerabilidade"
+    },
+    {
+        "text": "Cold - Immunity", "translate": "Frio - Imunidade"
+    },
+    {
+        "text": "Cold - Resistance", "translate": "Frio - Resistência"
+    },
+    {
+        "text": "Damage Dealt By Traps - Resistance", "translate": "Dano Causado por Armadilhas - Resistência"
+    },
+    {
+        "text": "Damage from Spells - Resistance", "translate": "Dano de Magias - Resistência"
+    },
+    {
+        "text": "Damage of the type matching the animated breath's form (acid, cold, fire, lightning, or poison) - Resistance", "translate": "Dano do tipo correspondente à forma do sopro animado (ácido, frio, fogo, relâmpago ou veneno) - Resistência"
+    },
+    {
+        "text": "Fire - Vulnerability", "translate": "Fogo - Vulnerabilidade"
+    },
+    {
+        "text": "Fire - Resistance", "translate": "Fogo - Resistência"
+    },
+    {
+        "text": "Fire - Immunity", "translate": "Fogo - Imunidade"
+    },
+    {
+        "text": "Force - Resistance", "translate": "Força - Resistência"
+    },
+    {
+        "text": "Force - Immunity", "translate": "Força - Imunidade"
+    },
+    {
+        "text": "Force - Vulnerability", "translate": "Força - Vulnerabilidade"
+    },
+    {
+        "text": "Lightning - Vulnerability", "translate": "Relâmpago - Vulnerabilidade"
+    },
+    {
+        "text": "Lightning - Immunity", "translate": "Relâmpago - Imunidade"
+    },
+    {
+        "text": "Lightning - Resistance", "translate": "Relâmpago - Resistência"
+    },
+    {
+        "text": "Lightning (granted by darksteel greataxe) - Resistance", "translate": "Relâmpago (concedido por machado grande de aço negro) - Resistência"
+    },
+    {
+        "text": "Necrotic - Vulnerability", "translate": "Necrótico - Vulnerabilidade"
+    },
+    {
+        "text": "Necrotic - Resistance", "translate": "Necrótico - Resistência"
+    },
+    {
+        "text": "Necrotic - Immunity", "translate": "Necrótico - Imunidade"
+    },
+    {
+        "text": "Nonmagical Bludgeoning, Piercing, and Slashing (from Stoneskin) - Resistance", "translate": "Concussão, Perfuração e Cortante Não Mágicos (de Pele de Pedra) - Resistência"
+    },
+    {
+        "text": "One of the following: acid, cold, fire, lightning, or poison - Resistance", "translate": "Um dos seguintes: ácido, frio, fogo, relâmpago ou veneno - Resistência"
+    },
+    {
+        "text": "Petrified (Aberrant Armor Only) - Immunity", "translate": "Petrificado (apenas Armadura Aberrante) - Imunidade"
+    },
+    {
+        "text": "Piercing - Vulnerability", "translate": "Perfuração - Vulnerabilidade"
+    },
+    {
+        "text": "Piercing - Resistance", "translate": "Perfuração - Resistência"
+    },
+    {
+        "text": "Piercing - Immunity", "translate": "Perfuração - Imunidade"
+    },
+    {
+        "text": "Piercing and Slashing from nonmagical attacks - Resistance", "translate": "Perfuração e Cortante de ataques não mágicos - Resistência"
+    },
+    {
+        "text": "Piercing and Slashing from Nonmagical Attacks that aren't Adamantine - Resistance", "translate": "Perfuração e Cortante de Ataques Não Mágicos que não sejam de Adamantina - Resistência"
+    },
+    {
+        "text": "Piercing and Slashing from Nonmagical Attacks that aren't Adamantine - Immunity", "translate": "Perfuração e Cortante de Ataques Não Mágicos que não sejam de Adamantina - Imunidade"
+    },
+    {
+        "text": "Piercing from Magic Weapons Wielded by Good Creatures - Vulnerability", "translate": "Perfuração de Armas Mágicas Empunhadas por Criaturas Boas - Vulnerabilidade"
+    },
+    {
+        "text": "Piercing from nonmagical attacks - Resistance", "translate": "Perfuração de ataques não mágicos - Resistência"
+    },
+    {
+        "text": "Poison - Vulnerability", "translate": "Veneno - Vulnerabilidade"
+    },
+    {
+        "text": "Poison - Resistance", "translate": "Veneno - Resistência"
+    },
+    {
+        "text": "Poison - Immunity", "translate": "Veneno - Imunidade"
+    },
+    {
+        "text": "Psychic - Immunity", "translate": "Psíquico - Imunidade"
+    },
+    {
+        "text": "Psychic - Resistance", "translate": "Psíquico - Resistência"
+    },
+    {
+        "text": "Psychic - Vulnerability", "translate": "Psíquico - Vulnerabilidade"
+    },
+    {
+        "text": "Psychic (granted by Ruidium Armor) - Resistance", "translate": "Psíquico (concedido por Armadura de Ruidium) - Resistência"
+    },
+    {
+        "text": "Radiant - Vulnerability", "translate": "Radiante - Vulnerabilidade"
+    },
+    {
+        "text": "Radiant - Resistance", "translate": "Radiante - Resistência"
+    },
+    {
+        "text": "Radiant - Immunity", "translate": "Radiante - Imunidade"
+    },
+    {
+        "text": "Ranged Attacks - Resistance", "translate": "Ataques à Distância - Resistência"
+    },
+    {
+        "text": "Slashing - Vulnerability", "translate": "Cortante - Vulnerabilidade"
+    },
+    {
+        "text": "Slashing - Resistance", "translate": "Cortante - Resistência"
+    },
+    {
+        "text": "Slashing - Immunity", "translate": "Cortante - Imunidade"
+    },
+    {
+        "text": "Slashing and Piercing from Nonmagical Attacks - Resistance", "translate": "Cortante e Perfuração de Ataques Não Mágicos - Resistência"
+    },
+    {
+        "text": "Slashing from a Vorpal Sword - Vulnerability", "translate": "Corte por uma Espada Vorpal - Vulnerabilidade"
+    },
+    {
+        "text": "Slashing from Nonmagical Attacks - Resistance", "translate": "Corte de Ataques Não Mágicos - Resistência"
+    },
+    {
+        "text": "Thunder - Vulnerability", "translate": "Trovão - Vulnerabilidade"
+    },
+    {
+        "text": "Thunder - Resistance", "translate": "Trovão - Resistência"
+    },
+    {
+        "text": "Thunder - Immunity", "translate": "Trovão - Imunidade"
+    }
+]
